@@ -6,25 +6,21 @@
 
 ## Description
 
-_This is a survey created using HTML and JavaScript/JQuery in order to recommend certain coding languages to people who are unsure of where to start. While coding languages retain a number of similarities, it is common to use multiple within the same set of code and it is still important for users to put some thought into which language(s) they should learn._
+_This is a survey created using HTML, CSS, and JavaScript/JQuery in order to recommend certain coding languages to people who are unsure of where to start. While coding languages retain a number of similarities, it is common to use multiple within the same set of code and it is still important for users to put some thought into which language(s) they should learn._
 
 ## Setup/Installation Requirements
 
-* _This is a program created using HTML, JavaScript, and JQuery._
-* _You do not need any extra programs to run this file. The only page will be your survey on "language-suggester.html"._
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+* _This is a program created using HTML, CSS, JavaScript, and JQuery._
+* _You do not need any extra programs to run this file. The only web page will be your survey in the "language-suggester.html" file._
+* _Once the form has been filled out once, you may need to refresh the page if you would like to try a different selection of answers. However, hitting the "submit" button to hide your results should count as a "reset" for the form and you can shuffle around answers as you'd like._
 
 ## Known Bugs
 
-_No known bugs._
+_There was a minor bug where the form would only allow you to select one overall answer or where you could select multiple answers within each question. However these should all be fixed with the updated code._
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+_The "neon button" effect was created using a tutorial found on YouTube. I have been unable to recreate the full effect without breaking the existing code. This may be because the code is originally meant as a linked button and not for a form submittal, however I am unsure at the moment._
 
 ### License
 
