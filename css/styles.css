@@ -6,3 +6,24 @@
 h2 {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+
+#lastbox {
+  background-color: #1f1f14;
+  color: whitesmoke;
+}
+
+.answers {
+  text-align: center;
+}
+
+#Python {
+  display: none;
+}
+
+#JavaScript {
+  display: none;
+}
+
+#Swift {
+  display: none;
+}
