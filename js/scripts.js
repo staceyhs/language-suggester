@@ -10,6 +10,5 @@ $(document).ready(function() {
     } else if (operator === "Python") {
       result = $("#Python").fadeToggle();
     }
-    $("#output").text(result);
   });
 });
