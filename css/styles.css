@@ -29,6 +29,14 @@ h2 {
   display: none;
 }
 
+#happypanda {
+  display: none;
+}
+
+#sadpanda {
+  display:none;
+}
+
 .btn {
   position: relative;
   display: inline-block;
