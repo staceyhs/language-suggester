@@ -11,7 +11,7 @@ _This is a survey created using HTML and JavaScript/JQuery in order to recommend
 ## Setup/Installation Requirements
 
 * _This is a program created using HTML, JavaScript, and JQuery._
-* _You do not need any extra programs to run this file. The only page will be your survey on "language-suggeter.html"._
+* _You do not need any extra programs to run this file. The only page will be your survey on "language-suggester.html"._
 * _in a simple_
 * _easy-to-understand_
 * _format_
